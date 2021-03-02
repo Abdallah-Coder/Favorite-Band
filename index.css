@@ -1,0 +1,43 @@
+   body{
+       background-color: darkgreen;
+   }
+   .header{
+       background-color: darkred;
+       text-align: center;
+       height: 50px;
+       
+
+   }
+   .main_content{
+       background-color: deepskyblue;
+   }
+   img{
+height: 300px;
+width: 300px;
+object-fit: cover;
+   }
+   .band_members{
+       background-color: black;
+       color: white;
+   }
+   .member{
+       background-color:rgb(red, green, blue);
+       padding: 5px;
+       margin: 10px;
+   }
+   .song container#fav_songs{
+       border-radius: 10px 50px 50px 10px;
+       float: left;
+   }
+   #p_songs{
+       font-size: 35px;
+       text-align: left;
+       color: sienna;
+   }
+   .ul{
+       list-style-type: square;
+
+   }
+  ol.album_li{
+      color: slateblue;
+  }
