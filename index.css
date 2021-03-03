@@ -2,26 +2,31 @@
        background-color: darkgreen;
    }
    .header{
-       background-color: darkred;
+       background-color: white;
        text-align: center;
        height: 50px;
        
 
    }
    .main_content{
-       background-color: deepskyblue;
+       background-color:darkgreen;
    }
+  
    img{
 height: 300px;
 width: 300px;
 object-fit: cover;
+image-rendering: crisp-edges;
    }
    .band_members{
-       background-color: black;
-       color: white;
+       background-color:darkgreen;
+       color:darkblue;
+   }
+   .members#band_member{
+       background-color: green;
    }
    .member{
-       background-color:rgb(red, green, blue);
+       background-color:darkgreen;
        padding: 5px;
        margin: 10px;
    }
@@ -32,10 +37,10 @@ object-fit: cover;
    #p_songs{
        font-size: 35px;
        text-align: left;
-       color: sienna;
+       color: black;
    }
    .ul{
-       list-style-type: square;
+       list-style-type: square;ss
 
    }
   ol.album_li{
