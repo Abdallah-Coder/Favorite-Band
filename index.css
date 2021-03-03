@@ -2,7 +2,7 @@
        background-color: darkgreen;
    }
    .header{
-       background-color: darkred;
+       background-color: darkgreen;
        text-align: center;
        height: 50px;
        
@@ -17,7 +17,7 @@ width: 300px;
 object-fit: cover;
    }
    .band_members{
-       background-color: black;
+       background-color: darkgreen;
        color: white;
    }
    .member{
@@ -32,13 +32,14 @@ object-fit: cover;
    #p_songs{
        font-size: 35px;
        text-align: left;
-       color: sienna;
+       color: black;
    }
    .ul{
        list-style-type: square;
 
    }
   ol.album_li{
-      color: slateblue;
+      color:black;
   }
+  
   
